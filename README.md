@@ -84,8 +84,10 @@ Enfoque orientado a eficiencia operativa y toma de decisiones
 📫 Contacto
 
 Enlaces:
+
 LinkedIn: [http://www.linkedin.com/in/rafael-rios-haro-data-analyst]
-Correo: rrios@gmail.com
+
+Correo: rriosh@gmail.com
 <!--
 **rriosh-DA/rriosh-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
