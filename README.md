@@ -27,49 +27,41 @@ Configuración de entornos de usuario final
 Asistencia remota | Solución de software y hardware
 
 📊 Proyectos Destacados
-Resumen Ejecutivo de Ventas Walmart
-
+Proyecto: Resumen Ejecutivo de Ventas Walmart
 Bootcamp Data Analyst – TripleTen (2026)
-
+Habilidades:
 Limpieza y formato de datos
 Uso de tablas dinámicas
 Creación de dashboard con KPIs
 Elaboración de gráficos y resumen ejecutivo
-
 Tecnologías: Excel Dashboards KPIs Tablas Dinámicas
 
-Análisis de desempeño financiero con SQL
-
+Proyecto: Análisis de desempeño financiero con SQL
 Bootcamp Data Analyst – TripleTen (2026)
-
+Habilidades:
 Exploración de bases de datos relacionales
 Consultas SQL para filtrado y organización de datos
 Cálculo de métricas financieras
 Creación de tablas para análisis integrados
 Desarrollo de reportes financieros ejecutivos
-
 Tecnologías: SQL KPIs Financieros Reporting
 
-Análisis de embudo y retención para MercadoLibre
-
+Proyecto: Análisis de embudo y retención para MercadoLibre
 Bootcamp Data Analyst – TripleTen (2026)
-
+Habilidades:
 Construcción de funnels con CTEs
 Análisis de cohortes y retención
 Creación de heatmaps
 Desarrollo de embudos de conversión
-
 Tecnologías: SQL CTEs Cohortes Funnels
 
-Movilidad urbana y productividad económica en ciudades de LATAM
-
+Proyecto: Movilidad urbana y productividad económica en ciudades de LATAM
 Bootcamp Data Analyst – TripleTen (2026)
-
+Habilidades:
 Preparación y estructuración de datos con Python
 Limpieza y transformación de datasets
 Unión y validación de tablas
 Identificación de patrones y análisis exploratorio
-
 Tecnologías: Python Pandas Data Cleaning Data Analysis
 
 📈 Lo que me distingue
@@ -80,7 +72,6 @@ Combinación de experiencia técnica y análisis de negocio
 Enfoque orientado a eficiencia operativa y toma de decisiones
 
 📫 Contacto
-
 Enlaces:
 LinkedIn: [http://www.linkedin.com/in/rafael-rios-haro-data-analyst]
 Correo: rrios@gmail.com
