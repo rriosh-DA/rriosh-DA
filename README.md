@@ -1,7 +1,7 @@
 ## Hi there 👋, Soy Rafael Rios
 Sobre mí
 
-🎯 Data Analyst Junior en transición, con experiencia en análisis de datos, visualización y generación de insights accionables.
+## 🎯 Data Analyst Junior en transición, con experiencia en análisis de datos, visualización y generación de insights accionables.
 
 Tengo conocimientos en SQL y Python, con enfoque en transformar grandes volúmenes de datos en información estratégica para la toma de decisiones en entornos de negocio digital.
 
@@ -18,7 +18,7 @@ Visualización de datos
 Dashboards interactivos
 Automatización de reportes
 
-🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 Excel | SQL | Python | Pandas | Power BI | Tableau | Machine Learning
 Análisis de Datos | Limpieza de Datos | Dashboards | KPIs | ETL
 Soporte y Servicio | Administración de Bases de Datos
@@ -26,44 +26,47 @@ Respaldo y Recuperación de Información
 Configuración de entornos de usuario final
 Asistencia remota | Solución de software y hardware
 
-📊 Proyectos Destacados
+## 📊 Proyectos Destacados
 
-Proyecto: Resumen Ejecutivo de Ventas Walmart
+## Proyecto: Resumen Ejecutivo de Ventas Walmart
 Bootcamp Data Analyst – TripleTen (2026)
 
-Habilidades:
+## Habilidades:
 Limpieza y formato de datos
 Uso de tablas dinámicas
 Creación de dashboard con KPIs
 Elaboración de gráficos y resumen ejecutivo
 
-Tecnologías: Excel Dashboards KPIs Tablas Dinámicas
+## Tecnologías:
+Excel Dashboards KPIs Tablas Dinámicas
 
-Proyecto: Análisis de desempeño financiero con SQL
+## Proyecto: Análisis de desempeño financiero con SQL
 Bootcamp Data Analyst – TripleTen (2026)
 
-Habilidades:
+## Habilidades:
 Exploración de bases de datos relacionales
 Consultas SQL para filtrado y organización de datos
 Cálculo de métricas financieras
 Creación de tablas para análisis integrados
 Desarrollo de reportes financieros ejecutivos
 
-Tecnologías: SQL KPIs Financieros Reporting
+## Tecnologías: 
+SQL KPIs Financieros Reporting
 
-Proyecto: Análisis de embudo y retención para MercadoLibre
+## Proyecto: Análisis de embudo y retención para MercadoLibre
 Bootcamp Data Analyst – TripleTen (2026)
 
-Habilidades:
+## Habilidades:
 Construcción de funnels con CTEs
 Análisis de cohortes y retención
 Creación de heatmaps
 Desarrollo de embudos de conversión
 
-Tecnologías: SQL CTEs Cohortes Funnels
+## Tecnologías: 
+SQL CTEs Cohortes Funnels
 
 
-📈 Lo que me distingue
+## 📈 Lo que me distingue
  
 Transformo datos complejos en información clara y útil
 Capacidad para automatizar reportes y dashboards
@@ -71,13 +74,15 @@ Amplia experiencia en atención a usuarios y solución de problemas
 Combinación de experiencia técnica y análisis de negocio
 Enfoque orientado a eficiencia operativa y toma de decisiones
 
-📫 Contacto
+## 📫 Contacto
 
-Enlaces:
+## Enlaces:
 
-LinkedIn: [http://www.linkedin.com/in/rafael-rios-haro-data-analyst]
+## LinkedIn: 
+[http://www.linkedin.com/in/rafael-rios-haro-data-analyst]
 
-Correo: rriosh@gmail.com
+## Correo: 
+rriosh@gmail.com
 <!--
 **rriosh-DA/rriosh-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
