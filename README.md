@@ -17,7 +17,7 @@ Power BI
 Visualización de datos
 Dashboards interactivos
 Automatización de reportes
-<!--
+
 🛠️ Habilidades Técnicas
 Excel | SQL | Python | Pandas | Power BI | Tableau | Machine Learning
 Análisis de Datos | Limpieza de Datos | Dashboards | KPIs | ETL
@@ -81,10 +81,10 @@ Enfoque orientado a eficiencia operativa y toma de decisiones
 
 📫 Contacto
 
-Puedes agregar aquí tus enlaces:
+Enlaces:
 LinkedIn: [http://www.linkedin.com/in/rafael-rios-haro-data-analyst]
 Correo: rrios@gmail.com
-
+<!--
 **rriosh-DA/rriosh-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
