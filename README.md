@@ -18,6 +18,73 @@ Visualización de datos
 Dashboards interactivos
 Automatización de reportes
 <!--
+🛠️ Habilidades Técnicas
+Excel | SQL | Python | Pandas | Power BI | Tableau | Machine Learning
+Análisis de Datos | Limpieza de Datos | Dashboards | KPIs | ETL
+Soporte y Servicio | Administración de Bases de Datos
+Respaldo y Recuperación de Información
+Configuración de entornos de usuario final
+Asistencia remota | Solución de software y hardware
+
+📊 Proyectos Destacados
+Resumen Ejecutivo de Ventas Walmart
+
+Bootcamp Data Analyst – TripleTen (2026)
+
+Limpieza y formato de datos
+Uso de tablas dinámicas
+Creación de dashboard con KPIs
+Elaboración de gráficos y resumen ejecutivo
+
+Tecnologías: Excel Dashboards KPIs Tablas Dinámicas
+
+Análisis de desempeño financiero con SQL
+
+Bootcamp Data Analyst – TripleTen (2026)
+
+Exploración de bases de datos relacionales
+Consultas SQL para filtrado y organización de datos
+Cálculo de métricas financieras
+Creación de tablas para análisis integrados
+Desarrollo de reportes financieros ejecutivos
+
+Tecnologías: SQL KPIs Financieros Reporting
+
+Análisis de embudo y retención para MercadoLibre
+
+Bootcamp Data Analyst – TripleTen (2026)
+
+Construcción de funnels con CTEs
+Análisis de cohortes y retención
+Creación de heatmaps
+Desarrollo de embudos de conversión
+
+Tecnologías: SQL CTEs Cohortes Funnels
+
+Movilidad urbana y productividad económica en ciudades de LATAM
+
+Bootcamp Data Analyst – TripleTen (2026)
+
+Preparación y estructuración de datos con Python
+Limpieza y transformación de datasets
+Unión y validación de tablas
+Identificación de patrones y análisis exploratorio
+
+Tecnologías: Python Pandas Data Cleaning Data Analysis
+
+📈 Lo que me distingue
+Transformo datos complejos en información clara y útil
+Capacidad para automatizar reportes y dashboards
+Amplia experiencia en atención a usuarios y solución de problemas
+Combinación de experiencia técnica y análisis de negocio
+Enfoque orientado a eficiencia operativa y toma de decisiones
+
+📫 Contacto
+
+Puedes agregar aquí tus enlaces:
+LinkedIn: [http://www.linkedin.com/in/rafael-rios-haro-data-analyst]
+Correo: rrios@gmail.com
+
 **rriosh-DA/rriosh-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
