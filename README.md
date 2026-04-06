@@ -62,16 +62,6 @@ Desarrollo de embudos de conversión
 
 Tecnologías: SQL CTEs Cohortes Funnels
 
-Proyecto: Movilidad urbana y productividad económica en ciudades de LATAM
-Bootcamp Data Analyst – TripleTen (2026)
-
-Habilidades:
-Preparación y estructuración de datos con Python
-Limpieza y transformación de datasets
-Unión y validación de tablas
-Identificación de patrones y análisis exploratorio
-
-Tecnologías: Python Pandas Data Cleaning Data Analysis
 
 📈 Lo que me distingue
  
